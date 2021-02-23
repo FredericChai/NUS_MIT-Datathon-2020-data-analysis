@@ -6,5 +6,5 @@ Sedation is used as both an anxiolytic and an amnesic to mitigate against the ef
 
 The most recent Society of Critical Care Medicine (SCCM) guidelines on the management of pain, agitation, delirium, immobility and sleep (PADIS)5 advocate for an analgosedation regime, with opioids being first-line for analgesia. Additionally, analgesic and sedative regimes should be targeted to pain assessment and sedation assessment, respectively. It is often difficult to discern, in the agitated patient receiving mechanical ventilation, the cause of the agitation. Even in the presence of pain, it may be plausible that sedation be given to the patient to mitigate the psychological effects of acute pain. There have been no studies to date that have examined this dichotomy.
 
-We examine the temporal relationship between pain scoring and subsequent opioid and sedative boluses in mechanical ventilated patients in the intensive care unit(RASS score)
+We examine the temporal relationship between pain scoring and Richmond agitation-sedation score(RASS score)
 ![image](https://github.com/FredericChai/NUS_MIT-Datathon-2020-data-analysis/blob/master/Dashboard.png)
